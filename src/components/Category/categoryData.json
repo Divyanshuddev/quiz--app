@@ -1,0 +1,122 @@
+[
+    {
+        "name": "General Knowledge",
+        "backgroundColor": "#FFD1DC",
+        "categoryNumber": 9
+    },
+    {
+        "name": "Entertainment: Books",
+        "backgroundColor": "#C5E0DC",
+        "categoryNumber": 10
+    },
+    {
+        "name": "Entertainment: Film",
+        "backgroundColor": "#FFFACD",
+        "categoryNumber": 11
+    },
+    {
+        "name": "Entertainment: Music",
+        "backgroundColor": "#E0FFFF",
+        "categoryNumber": 12
+    },
+    {
+        "name": "Entertainment: Musicals & Theatres",
+        "backgroundColor": "#F5DEB3",
+        "categoryNumber": 13
+    },
+    {
+        "name": "Entertainment: Television",
+        "backgroundColor": "#D8BFD8",
+        "categoryNumber": 14
+    },
+    {
+        "name": "Entertainment: Video Games",
+        "backgroundColor": "#98FB98",
+        "categoryNumber": 15
+    },
+    {
+        "name": "Entertainment: Board Games",
+        "backgroundColor": "#FFDAB9",
+        "categoryNumber": 16
+    },
+    {
+        "name": "Science & Nature",
+        "backgroundColor": "#B0E0E6",
+        "categoryNumber": 17
+    },
+    {
+        "name": "Science: Computers",
+        "backgroundColor": "#FFB6C1",
+        "categoryNumber": 18
+    },
+    {
+        "name": "Science: Mathematics",
+        "backgroundColor": "#E6E6FA",
+        "categoryNumber": 19
+    },
+    {
+        "name": "Mythology",
+        "backgroundColor": "#F0E68C",
+        "categoryNumber": 20
+    },
+    {
+        "name": "Sports",
+        "backgroundColor": "#AFEEEE",
+        "categoryNumber": 21
+    },
+    {
+        "name": "Geography",
+        "backgroundColor": "#DDA0DD",
+        "categoryNumber": 22
+    },
+    {
+        "name": "History",
+        "backgroundColor": "#87CEFA",
+        "categoryNumber": 23
+    },
+    {
+        "name": "Politics",
+        "backgroundColor": "#FFA07A",
+        "categoryNumber": 24
+    },
+    {
+        "name": "Art",
+        "backgroundColor": "#B4EEB4",
+        "categoryNumber": 25
+    },
+    {
+        "name": "Celebrities",
+        "backgroundColor": "#FFDEAD",
+        "categoryNumber": 26
+    },
+    {
+        "name": "Animals",
+        "backgroundColor": "#C9A0DC",
+        "categoryNumber": 27
+    },
+    {
+        "name": "Vehicles",
+        "backgroundColor": "#F5F5DC",
+        "categoryNumber": 28
+    },
+    {
+        "name": "Entertainment: Comics",
+        "backgroundColor": "#ADD8E6",
+        "categoryNumber": 29
+    },
+    {
+        "name": "Science: Gadgets",
+        "backgroundColor": "#FFC0CB",
+        "categoryNumber": 30
+    },
+    {
+        "name": "Entertainment: Japanese Anime & Manga",
+        "backgroundColor": "#F5F5F5",
+        "categoryNumber": 31
+    },
+    {
+        "name": "Entertainment: Cartoon & Animations",
+        "backgroundColor": "#D3D3D3",
+        "categoryNumber": 32
+    }
+]

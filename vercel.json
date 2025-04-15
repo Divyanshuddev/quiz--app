@@ -1,0 +1,11 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/" },
+      { "source": "/category", "destination": "/" },
+      { "source": "/difficulty", "destination": "/" },
+      { "source": "/timer", "destination": "/" },
+      { "source": "/quiz", "destination": "/" },
+      { "source": "/result", "destination": "/" },
+      { "source": "/(.*)", "destination": "/" }
+    ]
+  }
