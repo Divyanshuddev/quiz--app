@@ -33,7 +33,9 @@ const styles = {
     padding: 2
   },
   button: {
-    width: "30%"
+    width: "30%",
+    backgroundColor:"white",
+    color:"#42a5f5"
   }
 }
 

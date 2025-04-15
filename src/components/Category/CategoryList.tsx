@@ -14,7 +14,9 @@ const styles = {
         padding: 2
     },
     button: {
-        width: "30%"
+        width: "30%",
+        backgroundColor:"white",
+        color:"#42a5f5"
     }
 };
 
@@ -41,7 +43,7 @@ const CategoryList = () => {
                 })
             }
             <Stack justifyContent={'center'} width={'100%'} alignItems={'center'}>
-                <Button variant="contained" sx={styles.button} disabled={invisible.name === ''} onClick={() => navigate('/difficulty',{state:invisible.categoryNumber})}>Start</Button>
+                <Button variant="contained" sx={styles.button} disabled={invisible.name === ''} onClick={() => navigate('/difficulty',{state:invisible.categoryNumber})}>Next</Button>
             </Stack>
         </Grid>
     )
